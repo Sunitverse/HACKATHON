@@ -1,0 +1,6 @@
+{
+  "name": "IP-SAKTI Sahayak",
+  "description": "AI-powered Intellectual Property and regulatory guidance for Ayurveda across national and international regimes. Smart India Hackathon 2026 (SIH26045).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
